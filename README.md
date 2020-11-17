@@ -6,8 +6,7 @@
 
 ## 〇、前言
 
-<!-- 我们学校有丰富的网络资源供我们学生使用，仅仅以 hit.edu.cn 结尾的域名就有数百个，但我们大多数人对这些资源知之甚少。我经常看到同学在得知某个网站或者听说一种让下载速度更快的方法时，心想如果大一的时候就知道该多好啊！同时，学校官方辛辛苦苦搭建的网站或者花很多钱购买的服务，没有几个学生去用，也是一笔很大的浪费。于是我决定写这样一篇文章来总结一下我所知道的资源和相应的使用方法，如果有我没提到的或者错误的地方，欢迎提出 Issue 和 Pull request。
--->
+我们学校有丰富的网络资源供我们学生使用，仅仅以 hit.edu.cn 结尾的域名就有数百个<!-- 至少曾经有，见 https://github.com/cvkki/src/blob/master/edu-src.txt -->，但我们大多数人对这些资源知之甚少。我经常看到同学在得知某个网站或者听说一种让下载速度更快的方法时，心想如果大一的时候就知道该多好啊！同时，学校官方辛辛苦苦搭建的网站或者花很多钱购买的服务，没有几个学生去用，也是一笔很大的浪费。于是我决定建立这样一个仓库来总结一下我所知道的资源和相应的使用方法，如果有没提到的或者错误的地方，欢迎提出 Issue 和 Pull request。
 
 ## 一、网络接入
 
@@ -54,6 +53,9 @@
 
 * [ito.hit.edu.cn](http://ito.hit.edu.cn/)（网络与信息中心）：
 发布网络信息公告、维护通知。
+
+* [homepage.hit.edu.cn](http://homepage.hit.edu.cn/)（教师个人主页）：
+教师个人主页，可以在此系统查看部分教师个人信息。
 
 ### 服务类
 
@@ -110,16 +112,28 @@
 * [payment.hit.edu.cn](http://payment.hit.edu.cn/payment/)（缴费平台）：
 用于学费、住宿费等的缴费，其他系统发起的支付订单（如网费、校园卡充值等）也会跳转至此。
 
+* [sse.hit.edu.cn/train](http://sse.hit.edu.cn/train/)（SSE - 高级语言程序设计能力训练平台）：
+高级语言程序设计课程训练平台。
+
 * [acm.hit.edu.cn](http://acm.hit.edu.cn/)（HIT Online Judge, HOJ）：
 用于 XCPC 队伍训练，及部分班级高级语言程序设计课的作业与考试。
 
 * [exam.hit.edu.cn](http://exam.hit.edu.cn/)（网络在线考试系统）：
 部分课程的考试、某些知识问答等在这里进行。
 
-* [cloc2.hit.edu.cn](http://cloc2.hit.edu.cn/)（二区）、[cloc.hit.edu.cn](http://cloc.hit.edu.cn/)（一区）（化学实验中心选课平台）：
+* [clop.hit.edu.cn](http://clop.hit.edu.cn/)（一区）、[clop2.hit.edu.cn](http://clop2.hit.edu.cn/)（二区）（物理实验中心）
+大物实验预约平台。
+
+* [cloc.hit.edu.cn](http://cloc.hit.edu.cn/)（一区）、[cloc2.hit.edu.cn](http://cloc2.hit.edu.cn/)（二区）（化学实验中心选课平台）：
 部分化学课程的实验课在这里选课。
 
 * [yx.hit.edu.cn](http://yx.hit.edu.cn/)（迎新服务系统）：
 新生报到相关，如信息完善，缴费，查询学号、班级、辅导员、寝室等。
+
+* [mirrors.hit.edu.cn](https://mirrors.hit.edu.cn/)（哈尔滨工业大学开源镜像站）：
+开源镜像站，提供各大主流 Linux 发行版的 ISO 文件下载、软件源镜像。
+
+* [survey.hit.edu.cn](http://survey.hit.edu.cn/)（问卷调查管理系统）：
+问卷调查系统，部分教师会选择此平台发布问卷。
 
 > 如果您有 [Telegram Messenger](http://telegram.org/)，您也可以关注 [@hit_info_digest](https://t.me/hit_info_digest) 获取推送。
