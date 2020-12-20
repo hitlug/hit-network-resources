@@ -57,6 +57,9 @@
 * [homepage.hit.edu.cn](http://homepage.hit.edu.cn/)（教师个人主页）：
 教师个人主页，可以在此系统查看部分教师个人信息。
 
+* [jwc.hit.edu.cn](http://jwc.hit.edu.cn/)（教务处网站）：
+部分教务信息发布网站，如选课通知、放假安排等。
+
 ### 服务类
 
 * [i.hit.edu.cn](http://i.hit.edu.cn/)（校园门户（内网））：
@@ -79,6 +82,9 @@
 
 * [jwts.hit.edu.cn](http://jwts.hit.edu.cn)（本科教学与管理服务平台）：
 本科生最常访问的网站之一，本科教务相关如选课、成绩查询、学分绩查询、教学评价等都在这里完成。附有详细的使用手册，登录后点击首页下载图标，或在 [jwts.hit.edu.cn/pubtzgg/download](http://jwts.hit.edu.cn/pubtzgg/download) 下载。
+
+* [jwts.hit.edu.cn/kjscx/queryKjs_wdl](http://jwts.hit.edu.cn/kjscx/queryKjs_wdl)（空教室查询系统）：
+可查找当前学期所有的空教室情况。
 
 * [jwes.hit.edu.cn](http://jwes.hit.edu.cn/)（本科生网上服务系统）：
 提供本科生成绩单、排名证明、在读证明等材料制作预约，学生证补办，成绩查询等服务。
