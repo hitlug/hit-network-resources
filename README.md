@@ -142,4 +142,7 @@
 * [survey.hit.edu.cn](http://survey.hit.edu.cn/)（问卷调查管理系统）：
 问卷调查系统，部分教师会选择此平台发布问卷。
 
+* [ele.hit.edu.cn](http://ele.hit.edu.cn/)（电控查询系统）：
+电控查询系统，可以查询寝室用电量、电费、电费缴费记录
+
 > 如果您有 [Telegram Messenger](http://telegram.org/)，您也可以关注 [@hit_info_digest](https://t.me/hit_info_digest) 获取推送。
