@@ -43,7 +43,10 @@
 ### 信息类
 
 * [www.hit.edu.cn](https://www.hit.edu.cn/)：
-哈工大首页
+哈工大首页。
+
+* [www.hit.edu.cn/xl/list.htm](https://www.hit.edu.cn/xl/list.htm)（校历）：
+哈工大校历。
 
 * [today.hit.edu.cn](http://today.hit.edu.cn/)（今日哈工大）：
 今日哈工大，即哈尔滨工业大学校内综合信息网，整合了各个院系、部处的公告、快讯、活动预告、就业信息等。
@@ -57,8 +60,11 @@
 * [homepage.hit.edu.cn](http://homepage.hit.edu.cn/)（教师个人主页）：
 教师个人主页，可以在此系统查看部分教师个人信息。
 
-* [jwc.hit.edu.cn](http://jwc.hit.edu.cn/)（教务处网站）：
-部分教务信息发布网站，如选课通知、放假安排等。
+* [jwc.hit.edu.cn](http://jwc.hit.edu.cn/)（本科生院教务处）：
+本科生部分教务信息发布网站，如选课通知、放假安排等。
+
+* [http://hitgs.hit.edu.cn/](http://hitgs.hit.edu.cn/)（研究生院）：
+研究生部分培养与教务等信息发布网站。
 
 ### 服务类
 
@@ -66,7 +72,7 @@
 校园门户包括了许多实用的服务，可以在登录后进行操作。[服务中心](http://i.hit.edu.cn/index#/app/service/list) 列出了许多业务的办理流程及办理页面入口（对于线上服务）；[应用中心](http://i.hit.edu.cn/index#/app/appCenter) 列出了许多服务系统的入口。
 如果您在校外或没有使用校园网，可以登录 [ivpn.hit.edu.cn](https://ivpn.hit.edu.cn/) 进入校园门户。
 
-* [wsfwzx.hit.edu.cn](http://wsfwzx.hit.edu.cn/)（网上服务中心）：
+* [wsfwzx.hit.edu.cn](http://wsfwzx.hit.edu.cn/)（网上服务中心（内网））：
 用于查询线上服务的办理进度，主要配合校园门户使用。
 
 * [mail.hit.edu.cn](https://mail.hit.edu.cn/)（电子邮件系统）：
@@ -77,30 +83,30 @@
 图书馆网站有[书目检索系统](http://opac.lib.hit.edu.cn/)、学术资源发现、[图书馆座位预约](http://ic.lib.hit.edu.cn/)等功能。登录书目检索系统后能够查询[当前借阅](http://opac.lib.hit.edu.cn/reader/book_lst.php)、[借阅历史](http://opac.lib.hit.edu.cn/reader/book_hist.php)等。
 除此之外，图书馆还为学生购买了大量的线上数据库，可以在[资源/数据库导航](http://www.lib.hit.edu.cn/databasenav)查询。
 
-* [pan.hit.edu.cn](https://pan.hit.edu.cn/)（云盘）：
+* [pan.hit.edu.cn](https://pan.hit.edu.cn/)（云盘（内网））：
 每名学生拥有 100GB 空间。需在校园门户右侧“个人中心”处开户后方可使用。
 
-* [jwts.hit.edu.cn](http://jwts.hit.edu.cn)（本科教学与管理服务平台）：
+* [jwts.hit.edu.cn](http://jwts.hit.edu.cn)（本科教学与管理服务平台（内网））：
 本科生最常访问的网站之一，本科教务相关如选课、成绩查询、学分绩查询、教学评价等都在这里完成。附有详细的使用手册，登录后点击首页下载图标，或在 [jwts.hit.edu.cn/pubtzgg/download](http://jwts.hit.edu.cn/pubtzgg/download) 下载。
 
-* [jwts.hit.edu.cn/kjscx/queryKjs_wdl](http://jwts.hit.edu.cn/kjscx/queryKjs_wdl)（空教室查询系统）：
+* [jwts.hit.edu.cn/kjscx/queryKjs_wdl](http://jwts.hit.edu.cn/kjscx/queryKjs_wdl)（空教室查询系统（内网））：
 可查找当前学期所有的空教室情况。
 
 * [jwes.hit.edu.cn](http://jwes.hit.edu.cn/)（本科生网上服务系统）：
 提供本科生成绩单、排名证明、在读证明等材料制作预约，学生证补办，成绩查询等服务。
 
-* [yjsgl.hit.edu.cn](http://yjsgl.hit.edu.cn/)（研究生教育管理系统）：
+* [yjsgl.hit.edu.cn](http://yjsgl.hit.edu.cn/)（研究生教育管理系统（内网））：
 
 * [hqfw.hit.edu.cn](http://hqfw.hit.edu.cn/hqfwdt/hqfwdtsy)（后勤服务大厅）：
 后勤报修与咨询（投诉、建议）平台，如有紧急报修推荐拨打[报修页面](http://hqfw.hit.edu.cn/wsbx/bxr/wybx)上的电话。活动中心场地申请也在这里完成。
 
-* [202.118.224.24:8080/selfservice/](http://202.118.224.24:8080/selfservice/)（校园网自助服务系统）：
+* [202.118.224.24:8080/selfservice/](http://202.118.224.24:8080/selfservice/)（校园网自助服务系统（内网））：
 校园网相关，如上网密码修改，设备管理，余额、套餐查询等。
 
 * [ids.hit.edu.cn](http://ids.hit.edu.cn/authserver/)（统一身份认证设置）；
 用于统一身份认证账号密码修改、账号绑定等。
 
-* [ms.hit.edu.cn](http://ms.hit.edu.cn/)（正版软件管理与服务平台）：
+* [ms.hit.edu.cn](http://ms.hit.edu.cn/)（正版软件管理与服务平台（内网））：
 提供 Windows、Office 等正版软件的激活服务，需要下载客户端。[ms.hit.edu.cn/help/client](http://ms.hit.edu.cn/help/client) 提供了使用教程。校外激活需要挂 VPN。
 
 * [xg.hit.edu.cn](https://xg.hit.edu.cn/)（学工平台）：
@@ -112,22 +118,22 @@
 * [xyk.hit.edu.cn](https://xyk.hit.edu.cn/)（校园卡服务大厅）：
 新版校园卡相关，如充值、修改密码、查询账单等。
 
-* [cwc.hit.edu.cn](http://cwc.hit.edu.cn/WFManager/home3.jsp)（财务信息门户）：
+* [cwc.hit.edu.cn](http://cwc.hit.edu.cn/WFManager/home3.jsp)（财务信息门户（内网））：
 用于助学金（副食补助）发放、酬金发放等查询，绑定银行卡修改等。
 
 * [payment.hit.edu.cn](http://payment.hit.edu.cn/payment/)（缴费平台）：
 用于学费、住宿费等的缴费，其他系统发起的支付订单（如网费、校园卡充值等）也会跳转至此。
 
-* [sse.hit.edu.cn/train](http://sse.hit.edu.cn/train/)（SSE - 高级语言程序设计能力训练平台）：
+* [sse.hit.edu.cn/train](http://sse.hit.edu.cn/train/)（C）、[sse.hit.edu.cn/cpp](http://sse.hit.edu.cn/cpp/)（C++）（SSE - 高级语言程序设计能力训练平台）：
 高级语言程序设计课程训练平台。
 
 * [acm.hit.edu.cn](http://acm.hit.edu.cn/)（HIT Online Judge, HOJ）：
 用于 XCPC 队伍训练，及部分班级高级语言程序设计课的作业与考试。
 
-* [exam.hit.edu.cn](http://exam.hit.edu.cn/)（网络在线考试系统）：
+* [exam.hit.edu.cn](http://exam.hit.edu.cn/)（网络在线考试系统（内网））：
 部分课程的考试、某些知识问答等在这里进行。
 
-* [clop.hit.edu.cn](http://clop.hit.edu.cn/)（一区）、[clop2.hit.edu.cn](http://clop2.hit.edu.cn/)（二区）（物理实验中心）
+* [clop.hit.edu.cn](http://clop.hit.edu.cn/)（一区）、[clop2.hit.edu.cn](http://clop2.hit.edu.cn/)（二区）（物理实验中心（内网））
 大物实验预约平台。
 
 * [cloc.hit.edu.cn](http://cloc.hit.edu.cn/)（一区）、[cloc2.hit.edu.cn](http://cloc2.hit.edu.cn/)（二区）（化学实验中心选课平台）：
@@ -136,7 +142,10 @@
 * [yx.hit.edu.cn](http://yx.hit.edu.cn/)（迎新服务系统）：
 新生报到相关，如信息完善，缴费，查询学号、班级、辅导员、寝室等。
 
-* [mirrors.hit.edu.cn](https://mirrors.hit.edu.cn/)（哈尔滨工业大学开源镜像站）：
+* [git.hit.edu.cn](https://git.hit.edu.cn/)（GitLab 服务）：
+校内代码托管平台 GitLab 服务，仅限哈工大邮箱注册。
+
+* [mirrors.hit.edu.cn](https://mirrors.hit.edu.cn/)（开源镜像站）：
 开源镜像站，提供各大主流 Linux 发行版的 ISO 文件下载、软件源镜像。
 
 * [survey.hit.edu.cn](http://survey.hit.edu.cn/)（问卷调查管理系统）：
