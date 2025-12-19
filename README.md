@@ -24,11 +24,11 @@
 
 无线使用方式：在搜索到 HIT-WLAN 的地方连接后，等待自动跳转登陆界面；
 
-有线（锐捷）使用方式：登录[网络与信息中心](http://ito.hit.edu.cn/)，在网络信息资源处点击“锐捷客户端下载”，下载对应平台客户端登录；
+有线（锐捷）使用方式：登录[哈工大网信办](https://ca.hit.edu.cn)，在网络安全，VPN服务处点击“客户端下载”，下载对应平台客户端登录；
 
 有线（PPPoE）使用方式：打开 PPPoE 客户端，账号输入学号/教职工号，并输入密码登录。
 
-相关链接：[校园网自助服务系统](http://202.118.224.24:8080/selfservice/)、[网络与信息中心](http://ito.hit.edu.cn/)
+相关链接：[校园网自助服务系统](http://202.118.224.24:8080/selfservice/)、[哈工大网信办](https://ca.hit.edu.cn)
 
 * VPN
 
@@ -106,8 +106,8 @@
 * [ids.hit.edu.cn](http://ids.hit.edu.cn/authserver/)（统一身份认证设置）；
 用于统一身份认证账号密码修改、账号绑定等。
 
-* [ms.hit.edu.cn](http://ms.hit.edu.cn/)（正版软件管理与服务平台（内网））：
-提供 Windows、Office 等正版软件的激活服务，需要下载客户端。[ms.hit.edu.cn/help/client](http://ms.hit.edu.cn/help/client) 提供了使用教程。校外激活需要挂 VPN。
+* [zb.hit.edu.cn](https://zb.hit.edu.cn/)（正版软件管理与服务平台（内网））：
+提供 Windows、Office 等正版软件的激活服务，需要下载客户端。[zb.hit.edu.cn/help/client](https://zb.hit.edu.cn/help/client) 提供了使用教程。校外激活需要挂 VPN。
 
 * [xg.hit.edu.cn](https://xg.hit.edu.cn/)（学工平台）：
 学工相关，如家庭经济困难认定、助学金申请、勤工俭学申请等，以及疫情期间的每日上报和出校（返校）申请。还可以在这里预约心理咨询辅导。
